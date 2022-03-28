@@ -1,4 +1,38 @@
+/* Main element styling */
+body
+{
+    padding: 0;
+    margin: 0;
+}
+
 h1
 {
     text-align: center;
 }
+
+/* Linkmenu styling */
+
+.linkmenu
+{
+    /* positions */
+    display: block;
+    position: fixed;
+    margin-left: 0;
+    float: left;
+    padding: 20px;
+
+    /* styling */
+    border-right: #000000 dotted 5px;
+    border-top: #000000 dotted 5px;
+    border-bottom: #000000 dotted 5px;
+
+}
+
+/* list style */
+.linkmenu ul
+{
+    /* remove list symbols */
+    list-style-type: none;
+    padding: 0;
+}
+
