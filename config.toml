@@ -1,0 +1,48 @@
+baseURL = "https://jimducker.nl"
+languageCode = "en-US"
+title = "Jim Dücker"
+# Enable comments by entering your Disqus shortname
+# disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+# googleAnalytics = ""
+theme = "hugo-sustain"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+
+[permalinks]
+  post = "/:day/:month/:year/:slug"
+
+[params]
+  avatar = "img/profile2.png"
+  author = "Jim Dücker"
+  description = "Hi, I'm Jim Dücker. Welcome to my portfolio website!"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "jimduckernl"
+  Email         = "jim@soverin.net"
+  LinkedIn      = "jim-dücker-596541221"
+
+## Main Menu
+[[menu.main]]
+  name = "about me"
+  weight = 100
+  identifier = "aboutme"
+  url = "/about/"
+[[menu.main]]
+  name = "skills"
+  identifier = "skills"
+  weight = 200
+  url = "/skills/"
+[[menu.main]]
+  name = "experience"
+  identifier = "experience"
+  weight = 200
+  url = "/experience/"

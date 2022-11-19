@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jim Dücker</title>
+    <link>https://jimducker.nl/</link>
+    <description>Recent content on Jim Dücker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://jimducker.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://jimducker.nl/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimducker.nl/about/</guid>
+      <description>Who am I? I&amp;rsquo;m a 19 year old software developer student currently living in The Netherlands, but looking to go to Sweden for my next internship. I&amp;rsquo;ve always had a passion for all kinds of stuff regarding technology, but I especially love to build.
+What I do I&amp;rsquo;ve been studying software development for around 3 years at the Koning Willem I College in &amp;rsquo;s-Hertogenbosch, and interned at Heras. Though I learn a lot at school, my interest takes me even further.</description>
+    </item>
+    
+  </channel>
+</rss>
