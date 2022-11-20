@@ -3,7 +3,7 @@ title: About me
 ---
 
 # Who am I?
-I'm a 19 year old software developer student currently living in The Netherlands, but looking to go to Sweden for my next internship. I've always had a passion for all kinds of stuff regarding technology, but I especially love to build.
+I'm a 19 year old software developer student currently living in The Netherlands, but looking to go to Sweden for my next internship. I've always had a passion for all kinds of stuff regarding technology, but I especially love to build software.
 
 ## What I do
 I've been studying software development for around 3 years at the Koning Willem I College in 's-Hertogenbosch, and interned at Heras. Though I learn a lot at school, my interest takes me even further. This is especially true for hardware and linux, in which I found great passion during my internship. I love occupying myself with projects at home like server hosting and writing programs that help me out.

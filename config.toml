@@ -36,11 +36,11 @@ theme = "hugo-sustain"
   weight = 100
   identifier = "aboutme"
   url = "/about/"
-#[[menu.main]]
-#  name = "skills"
-#  identifier = "skills"
-#  weight = 200
-#  url = "/skills/"
+[[menu.main]]
+  name = "skills"
+  identifier = "skills"
+  weight = 200
+  url = "/skills/"
 [[menu.main]]
   name = "experience"
   identifier = "experience"
