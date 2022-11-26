@@ -2,6 +2,8 @@
 title: Experience
 ---
 
+# Internships
+
 ## Heras
 [![Heras B.V.](heras.png)](https://www.heras.co.uk/)
 During the first half of my second year I interned at Heras. Heras is an *international* protection company. That means that they come up with and create solutions across many different sectors. They're widely known for their security solutions which include fences, gates, cameras and other solutions.
@@ -26,8 +28,6 @@ In a way, I learned just as much from the student council as I did from my studi
 
 ## VMBO-T - Kempenhorst College
 This was my middle / high school education. It wasn't anything special, I learned the basic set of skills any student learns. This was the time, however, where I discovered my interest in building software. I also opted in for the optional [Anglia Examinations](#anglia-examinations) to become better at the English Language.
-
-# Internships
 
 # Certificates
 During my studies I've also earned a few certificates. They're nothing special, but nice little add-ons to have.
